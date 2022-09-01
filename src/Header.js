@@ -38,6 +38,11 @@ function Header() {
                 </Link>
               </li>
               <li class="nav-item">
+                <Link to="/cart" class="nav-link">
+                  cart
+                </Link>
+              </li>
+              <li class="nav-item">
                 <a
                   class="nav-link disabled"
                   href="#"
